@@ -12,4 +12,7 @@
 | [Neovim](https://github.com/neovim/neovim) | Vim, C, Lua | Extended Vim | |
 | [NvChad](https://github.com/NvChad/NvChad) | Lua | Neovim starter pack | |
 | [XMonad](https://github.com/xmonad/xmonad) | Haskell | Tiling WM | |
+| [FastAPI](https://github.com/fastapi/fastapi) | Python | API Framework | |
+
+
 ---
