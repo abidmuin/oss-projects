@@ -13,6 +13,8 @@
 | [NvChad](https://github.com/NvChad/NvChad) | Lua | Neovim starter pack | |
 | [XMonad](https://github.com/xmonad/xmonad) | Haskell | Tiling WM | |
 | [FastAPI](https://github.com/fastapi/fastapi) | Python | API Framework | |
+| [MinIO](https://github.com/minio/minio) | Go | MinIO is a high-performance, S3 compatible object store | |
+<!-- | [MinIO](https://github.com/minio/minio) | Go | MinIO is a high-performance, S3 compatible object store | | -->
 
 
 ---
