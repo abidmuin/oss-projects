@@ -14,7 +14,6 @@
 | [XMonad](https://github.com/xmonad/xmonad) | Haskell | Tiling WM | |
 | [FastAPI](https://github.com/fastapi/fastapi) | Python | API Framework | |
 | [MinIO](https://github.com/minio/minio) | Go | MinIO is a high-performance, S3 compatible object store | |
-<!-- | [MinIO](https://github.com/minio/minio) | Go | MinIO is a high-performance, S3 compatible object store | | -->
-
+| [DockerShrink](https://github.com/duaraghav8/dockershrink) | Python | AI-powered tool to reduce the size of Docker Images  | |
 
 ---
